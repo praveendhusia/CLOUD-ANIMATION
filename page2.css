@@ -58,7 +58,7 @@ border-radius: 100px;
 .container .cloud .drop{
     position: absolute;
     top: 0;
-    background: #eb0505;
+    background: #05a2eb;
     width: 2px;
     height: 10px;
     transform-origin: bottom;
